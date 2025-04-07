@@ -64,12 +64,12 @@
       "industri_SUPPLY_NOT_MET_text": "Budova nemá silniční spojení nebo jí chybí přísun vody/elektřiny",
       "industri_actions_panel_title": "Činnosti",
       "industri_settings_draw_info": "Vykresli informace o budově",
-      "industri_SUPPLY_NOT_MET_title": "Supply not met",
+      "industri_SUPPLY_NOT_MET_title": "Nedostaečně zásobováno",
       "industri_settings_draw_info_overlay": "Overlay",
       "industri_settings_draw_info_hidden": "Hidden",
-      "draft_wood_industri_printingpress_title": "Printing press",
-      "draft_wood_industri_printingpress_text": "Uses Paper to print Books and Press.",
-      "industri_resource_books_name": "Books"
+      "draft_wood_industri_printingpress_title": "Knihtisk",
+      "draft_wood_industri_printingpress_text": "Tiskne knihy za využití papíru",
+      "industri_resource_books_name": "Knihy"
     }
   }
 ]
